@@ -1,0 +1,2 @@
+# photogur
+first rails app
